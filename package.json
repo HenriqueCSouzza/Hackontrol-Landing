@@ -1,0 +1,22 @@
+{
+  "name": "hackontrol-landing",
+  "version": "1.0.0",
+  "description": "Landing from hackontrol",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenriqueCSouzza/Hackontrol-Landing.git"
+  },
+  "keywords": [
+    "hackontrol"
+  ],
+  "author": "Henrique Carvalho de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenriqueCSouzza/Hackontrol-Landing/issues"
+  },
+  "homepage": "https://github.com/HenriqueCSouzza/Hackontrol-Landing#readme"
+}
